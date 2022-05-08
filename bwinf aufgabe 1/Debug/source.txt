@@ -1,0 +1,51 @@
+Peter
++ Anna Sophie
+- 
+
+Anna
++
+- 
+
+Sophie
++
+- 
+
+Tobi
++ Horst Nele Peter
+- 
+
+Horst
++
+- 
+
+Nele
++ Karsten
+-
+
+Karsten
++
+-
+
+Ulli
++ 
+- 
+
+Tanja
++ Ulli
+-
+
+Petra
++ Tanja 
+-
+
+Tom
++
+-
+
+Max
++
+-
+
+Lisa
++
+- 
